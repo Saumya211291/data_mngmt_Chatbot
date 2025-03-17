@@ -1,0 +1,4 @@
+Flask
+Flask-CORS
+google-cloud-bigquery
+google-generativeai

@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:where(:root) {
+  display: grid;
+  height: 100%;
+}
+
+#root {
+  @apply relative w-full h-full;
+}
+
+@theme {
+  --color-brand: #11b67a;
+}
+
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  position: relative;
+  background: var(--color-neutral-100);
+  color: var(--color-neutral-950);
+  background: radial-gradient(1Q, var(--color-neutral-200) 1Q, var(--color-neutral-50) 2Q);
+  background-size: 45px 45px;
+  background-position: 0 0;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
