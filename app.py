@@ -7,7 +7,7 @@ import google.generativeai as genai
 app = Flask(__name__)
 
 # Set Google Cloud credentials
-SERVICE_ACCOUNT_FILE = "C:\\Users\\DELL\\Documents\\cloudathon2025\\ltc-hack-prj-17-ee27d1e46f80.json"
+SERVICE_ACCOUNT_FILE = "C:\\Users\\DELL\\Downloads\\ltc-hack-prj-17-69df84f63bf0.json"
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = SERVICE_ACCOUNT_FILE
 
 # Initialize BigQuery client
