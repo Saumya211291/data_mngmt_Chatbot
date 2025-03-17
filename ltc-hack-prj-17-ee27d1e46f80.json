@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ltc-hack-prj-17",
+  "private_key_id": "ee27d1e46f8036ab3db0cd24f04335a043b9f742",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfpOlBaOpbvJEH\nOSizwP3Z/YfIVs3XF2PRI5SMFTaFq1kf3PpKM52OKNTJqi/y8Q7R3EDxNLtdG9VM\nklrY3w29ANOycRx8Qy9jXd9L8lcEVOFRrLrdAdp+53Y/JtD61hy6G9NR0Js1bvuJ\nSBJjs2sSj+LXDE48KpfwhhnsSlOgWCzX9THlYrOBmBfq7mcZOhB03KWbhAHKEA7S\nk4gkfsRq87hCZz6FhlTLZ7TzmRb22n7M71/I2p5XsP+jQCFq0uT0NPAV1EwvmhlM\nI71OrnpOAmDaOLEmCim5tu/yEVemFB0PJWNaRw0/poekhtSQlza+IUXnmjXbHTjh\nEzyKJL5XAgMBAAECggEAGhcVhSV1rbUOYD7ZUjsSAkPS+tqxkcWvRd82Pa9d2HM4\nZwCzDEQAPezighJCHL/lgDMHOnxx3TdZh2DNi15eLm3xxG/wqEh4N0nkumnvn9g9\nHvedJxpHwKVFBLIFEDY5TLbhTLqe2Ll1S7smNg5gz94MUxUi7V70scEbNhcnsV1Q\nIiDZg4c7y4dnCHjW2nt+77DreKmG3Pdh5gBS6C/iEVEu4TKoYsk7enmwaqHa47Bw\nNi9mlKnTng+xAL0e9rFbhp7OqIKoWXoB456Lqbid34u+/OX6Tc1t1vGczeRke3WC\nsTK9Fyzkh95ndkft/4J862Nd4Nmc2CJfXGN2HgvkyQKBgQD5Lyzhxd352cSccuLK\nDYDPQSDasVYstqBq9hQyaJ4P0BGbcHxt2o3YT+Vn81meAt5HRH71bEOh58Phe+Mf\nbJM7JDnIlbtligRA+wl7YlRB00c7dQSQQuGWc1iB9rMRsNIpav6yhj+Z7etf0XPi\n3bEA9WoSG5pKUwhioJ+s3fKOfwKBgQDlwuZ+ayIa0Q4Cg1m0EmRXtrF9rocdqz5B\njpLCL/kSuJvBsqz3wxMyixtXhVY1C+pF4Gn2AOXMJAIcJabITpDA7wauHHSvQpy2\nseO4Qzu/S9mMVhY8yWKMMoO9K7qb4d7rIR1jqvY7oIVAnO81J2PCgO8CxPfpMjjI\nKcFgk9YUKQKBgHkSvej5PhCfCdPGUoFALF0HVRJNZgSVu74c0NVpVZtzSorPDfZG\nYfM/ZsSqTdnjpOLV2iYfM4FgXiGaE1H6bFMpF9ZpQkNk2wpDr2i+7xeIs6yk/9Gk\nXX2/j7qeBoXK92JedWCCsDZ3jozg9UC+3LkNhTtFJCOG0qUxTEQvFyK7AoGBAJVa\n7s57Af6AqyTDEcrWsde68QIMM9T7fkrLTWdiG/0peEafyYR9kLsoZiush2+QQUgP\nK5I43yimt6BocVSAjeR8/NCtusQ6/vhcBvW+7tXZjp+FTotRNfiA1dZg2LuARpJ+\nQkaJ2erE3Bo2aeEZq+XCPpyEQcubVAH58rS/JUiRAoGBAJWP3YQVIYynlRjWB+Eu\nlkMjuhLX2SFHFiGnc6xT9ZPQ7S8vnMWTPbIv+K6ThuwrRNfb0Ei4wB8b/51EODxL\nzADJ61BoyxTPX4Z2s/tkVk0a5ZH6LF6qSEQ1mjR0scZEo3jok+P54UwqURokHDJ9\nySrQuZ1FcNF4tP6xQqNno6m0\n-----END PRIVATE KEY-----\n",
+  "client_email": "joltmasters@ltc-hack-prj-17.iam.gserviceaccount.com",
+  "client_id": "110118632877494619091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/joltmasters%40ltc-hack-prj-17.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
